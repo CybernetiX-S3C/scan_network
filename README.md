@@ -1,6 +1,20 @@
 proto# scan_network
 
-**scan_network** is a network scanning tool written in Fortran. It can be used to scan for open ports, services, and vulnerabilities on a network. The script can be compiled with the following command:
+**scan_network** is a network scanning tool written in Fortran. It can be used to scan for open ports, services, and vulnerabilities on a network. 
+
+Clone the repo:
+
+```
+git clone https://GitHub.com/CybernetiX-S3C/scan_network
+```
+
+Move into the designated folder:
+
+```
+cd scan_network
+```
+
+Compile the script using Fortran:
 
 ```
 gfortran scan_network.f90 -o scan_network
