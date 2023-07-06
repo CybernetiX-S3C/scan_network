@@ -33,14 +33,12 @@ For more information on how to use the script, you can run the `-h` option.
 
 The script is still under development, but it is already a powerful tool for network scanning. I hope you find it useful!
 
-Here are some additional details that you may want to include in the description:
 
 * The script is written in Fortran, which is a high-performance language that is well-suited for network programming.
 * The script is portable and can be run on any platform that has a Fortran compiler.
 * The script is open source and is available on GitHub.
 * The script is well-documented and includes a help message that explains how to use it.
 
-I hope this helps!
 
 ## License
 
